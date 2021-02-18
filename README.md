@@ -1,2 +1,2 @@
-# Koprok-In
+# Koprok-In-Server
 Indonesian Traditional Gambling
